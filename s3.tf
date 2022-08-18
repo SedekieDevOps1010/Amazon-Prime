@@ -1,4 +1,4 @@
 # change as per developer
-teerereevsbssa
-hdhsuchdsc
-hayasdgfd
+resource "aws_s3_bucket" "s3bucket" {
+    bucket = "sfrdehes2534"
+}
